@@ -1,4 +1,4 @@
-#**mobile vacancies**
+# **mobile vacancies**
 
 ⬜
 - **iOS Developer, UK-wide remote**
@@ -38,7 +38,7 @@
 - working on an ai-based platform for chatbots assisting with customer service for some massive clients. any OOP would be great but PHP will be the bread and butter of the role. company has been acquired and loaded with funding lately so a great opportunity to progress a career
 - up to £60,000 
 
-#**contact details**
+# **contact details**
 
 - **justin.reid@brightpurple.co.uk**
 - **0131 473 7036**
