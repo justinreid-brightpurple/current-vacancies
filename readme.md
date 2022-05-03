@@ -19,7 +19,7 @@
 - up to £75,000 salary with great bonus and benefits
 
 ⬛
-- **Lead Android Developer, hybrid from London (minimmum 1 day in office) **
+- **Lead Android Developer, hybrid from London (minimmum 1 day in office)**
 - #entertainment
 - you'll be working on one of the UK's most popular apps, this company has a fantastic upskilling academy and would be a good step for someone with 3-12 months experience
 - up to £60,000 salary
@@ -33,7 +33,7 @@
 - up to £60,000
 
 🖥
-- ** PHP Engineer, remote within Scotland**
+- **PHP Engineer, remote within Scotland**
 - #ai
 - working on an ai-based platform for chatbots assisting with customer service for some massive clients. any OOP would be great but PHP will be the bread and butter of the role. company has been acquired and loaded with funding lately so a great opportunity to progress a career
 - up to £60,000 
